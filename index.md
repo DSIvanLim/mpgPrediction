@@ -3,7 +3,7 @@ title       : Petrol Usage Prediction
 subtitle    : Petrol consumption using Shiny Application
 author      : Ivan Lim
 job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+framework   : html5slides        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
@@ -35,7 +35,11 @@ The estimated value will shown as a triangle on the plot.
 
 - http://dslim.shinyapps.io/mpgPrediction/
 
+**The server and ui can be download from GitHub**
 
+- http://github.com/DSIvanLim/mpgPrediction
+
+---
 **The Sidebar for data entry**
 
 - Slider for Weight selection : Just slide left or right to input the desired weight.
